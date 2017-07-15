@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B39DDB"
+    tools:context="thesonid.com.theeurovisionapp.LeagueActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/winners" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#FFFFFF"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:background="@color/colorPrimary"
+            android:textColor="#FFFFFF"
+            android:text="Top 3 Countries of All Time"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#FFFFFF"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_weight="0.5"
+                android:gravity="center"
+                style="@style/LeagueStyle"
+                android:text="1st"/>
+            <ImageView
+                android:layout_weight="1"
+                android:src="@drawable/ireland"
+                style="@style/LeagueStyle" />
+            <TextView
+                android:layout_weight="1"
+                android:gravity="center"
+                style="@style/LeagueStyle"
+                android:text="Ireland"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#FFFFFF"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_weight="0.5"
+                android:gravity="center"
+                style="@style/LeagueStyle"
+                android:text="2nd"/>
+            <ImageView
+                android:layout_weight="1"
+                android:src="@drawable/sweden"
+                style="@style/LeagueStyle" />
+            <TextView
+                android:layout_weight="1"
+                android:gravity="center"
+                style="@style/LeagueStyle"
+                android:text="Sweden"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#FFFFFF"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_weight="0.5"
+                android:gravity="center"
+                style="@style/LeagueStyle"
+                android:text="3rd"/>
+            <ImageView
+                android:layout_weight="1"
+                android:src="@drawable/uk"
+                style="@style/LeagueStyle" />
+            <TextView
+                android:layout_weight="1"
+                android:gravity="center"
+                style="@style/LeagueStyle"
+                android:text="United Kingdom"/>
+        </LinearLayout>
+
+</LinearLayout>
+
+
+</ScrollView>
