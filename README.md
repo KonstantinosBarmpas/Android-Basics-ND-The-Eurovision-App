@@ -11,7 +11,7 @@
 
 [//]: # (Images)
 
-[Image1]: ./Image1.png "Image 1"
+[image1]: ./Image1.png "Image 1"
 
 [image2]: ./Image2.png "Image 2"
 
