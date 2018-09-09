@@ -20,7 +20,7 @@
 [image4]: ./images/Image4.jpg "Image 4"
 
 
-[image1]
+![image1]
 [image2]
 [image3]
 [image4]
