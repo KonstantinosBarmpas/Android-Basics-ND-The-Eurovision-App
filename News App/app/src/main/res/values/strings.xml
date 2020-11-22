@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brexit News by Guardian</string>
+    <string name="no_internet_connection">Sorry no internet connection</string>
+    <string name="no_news">No news found</string>
+    <string name="title1">Titles</string>
+    <string name="title2">Section</string>
+    <string name="title3">Date</string>
+</resources>

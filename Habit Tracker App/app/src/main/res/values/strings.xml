@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="name">Name of the habit</string>
+    <string name="number">Number of repeats</string>
+</resources>
