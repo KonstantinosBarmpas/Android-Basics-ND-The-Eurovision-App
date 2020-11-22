@@ -1,2 +1,23 @@
-# Android-Basics-ND-The-Eurovision-App
-Project of Udacity's "Android Basics Nanodegree". A Nanodegree program by Google specifically to support aspiring Android Developers with no programming experience. Its goal is to ensure graduates get the real-world skills to actually start building Android apps
+# Android Basics Nanodegree Projects
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## Summary
+
+This repo contains my projecrs for the Android Basics Nanodegree by Google & Udacity
+
+## Structure
+
+Each folder contains all the files for each Android app submission written in Java and XML.
+
+## Online Course Description 
+
+"We built this curriculum with Google for aspiring Android developers who are new to programming to ensure that you get the real-world skills you need to know how to build and accelerate your journey towards becoming a professional Android Developer." [[Android Basics by Google & Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)]
+
+## How to run
+
+This repo contains mainly Android Projects which can be run after installing `Android Studio`.
+
+---
