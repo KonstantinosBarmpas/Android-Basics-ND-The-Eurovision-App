@@ -1,0 +1,23 @@
+<resources>
+    <string name="unable_to_delete_stock">Unable to delete stock</string>
+    <string name="cursor_loading_finished">Cursor loading finished</string>
+    <string name="could_not_load_image">Could not load image</string>
+    <string name="failed_to_insert_row">"Failed to insert row for "</string>
+    <string name="successfully_inserted_row_for">"Successfully inserted row for "</string>
+    <string name="failed_to_update">"Failed to update "</string>
+    <string name="position_colon">Position:</string>
+    <string name="app_name">InventoryApp</string>
+    <string name="new_stock">New Stock</string>
+    <string name="edit_stock">Edit stock</string>
+    <string name="item_has_been_sold">" item has been sold"</string>
+    <string name="delete">Delete stock</string>
+    <string name="do_you_want_to_delete">Do you want to delete?</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="new_stock_saved">New stock saved successfully</string>
+    <string name="error_saving_stock">Error saving new stock</string>
+    <string name="stock_updated">Stock updated successfully</string>
+    <string name="error_updating_stock">Error updating stock</string>
+    <string name="deleting_stock_successful">Deleting stock was successful</string>
+    <string name="empty">The store is empty</string>
+    <string name="add_new_stock">Add a new stock</string>
+</resources>
